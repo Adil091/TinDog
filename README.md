@@ -1,2 +1,2 @@
 # TinDog
-WebSite for Dog
+Landing page for Tinder of Dogs
