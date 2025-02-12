@@ -19,13 +19,24 @@ body {
   font-family: Ubuntu !important;
   font-size: 2.5rem !important;
   font-weight: 400;
+  padding-left: 1%;
+  padding-bottom: 4%;
 }
-.navbar-brand {
-  padding-left: 5%;
-}
+
 .navbar {
   padding-right: 1% !important;
 }
 .nav-item {
   padding: 0 10px !important;
 }
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat" !important;
+}
+
+.download-button {
+  margin-top: 5% !important;
+  margin-right: 5% !important;
+}
+
+/* Title image */
