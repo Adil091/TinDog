@@ -18,7 +18,7 @@ body {
 .navbar-brand {
   font-family: Ubuntu !important;
   font-size: 2.5rem !important;
-  font-weight: 400;
+  font-weight: 450;
   padding-left: 1%;
   padding-bottom: 4%;
 }
@@ -40,3 +40,31 @@ body {
 }
 
 /* Title image */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* Features */
+#features {
+  padding: 7% 15%;
+  h3 {
+    font: "Montserrat";
+    font-size: 1.5rem;
+  }
+  p {
+    color: #8f8f8f;
+  }
+  .icon {
+    color: #ef8172;
+    margin: 1rem;
+  }
+  .icon:hover{
+    color: #ff4c68;
+  }
+
+  .Feature-box {
+    text-align: center;
+    padding: 5%;
+  }
+}
