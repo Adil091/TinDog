@@ -98,3 +98,24 @@ body {
     padding-bottom: 40px;
   }
 }
+
+#Pricing {
+  text-align: center;
+  padding: 5%;
+  .pricing {
+    p {
+      color: grey;
+    }
+  }
+  .card-header {
+    h2 {
+      font-weight: 900;
+    }
+  }
+  .card-body {
+    font-size: 1 rem;
+    h2 {
+      font-size: 2.5rem;
+    }
+  }
+}
